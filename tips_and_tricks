@@ -1,0 +1,4 @@
+ 1. python3 -m doctest -v src/shape_area.py
+ 2. python3 -m pytest --doctest-modules src/shape_area_docstring_placement.py -v - to run docTest in pytest framework
+ 3. python3 -m unittest test_docstring_unittest.py -v - to run doctest using unittest framework
+ 4. 
